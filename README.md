@@ -4,7 +4,7 @@
   </a>
 </p>
 
-<h3 align="center">AIO Integrador</h3>
+<h3 align="center">Scout</h3>
 
 <p align="center">
   Automações e Integrações sem limitações (AIops/DEVops)
