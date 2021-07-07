@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://onsac.com/">
-    <img src="https://github.com/onsac/Scout/blob/main/Logo%20Scout.png" alt="Bootstrap logo" width="200" height="200">
+    <img src="https://github.com/onsac/Scout/blob/main/Logo%20Scout.png" alt="Bootstrap logo" width="300" height="200">
   </a>
 </p>
 
