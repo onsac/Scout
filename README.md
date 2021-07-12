@@ -18,5 +18,29 @@ Scout by On-Sac
 
 
 <p align="center">
-     <img src="https://github.com/onsac/AIO-Integrador/blob/master/Telas-Configura%C3%A7%C3%A3o/Telas-Control-m/Tela-Control-m%203.jpeg" alt="Tela-control-m (3)" >
+     <img src="https://github.com/onsac/Scout/blob/main/Imagem%20Scout%201.jpeg" alt="Tela-Scout (1)" >
+</p>
+
+<p align="center">
+     <img src="https://github.com/onsac/Scout/blob/main/Imagem%20Scout%202.jpeg" alt="Tela-Scout (2)" >
+</p>
+
+<p align="center">
+     <img src="https://github.com/onsac/Scout/blob/main/Imagem%20Scout%203.jpeg" alt="Tela-Scout (3)" >
+</p>
+
+<p align="center">
+     <img src="https://github.com/onsac/Scout/blob/main/Imagem%20Scout%204.jpeg" alt="Tela-Scout (4)" >
+</p>
+
+<p align="center">
+     <img src="https://github.com/onsac/Scout/blob/main/Imagem%20Scout%205.jpeg" alt="Tela-Scout (5)" >
+</p>
+
+<p align="center">
+     <img src="https://github.com/onsac/Scout/blob/main/Imagem%20Scout%206.jpeg" alt="Tela-Scout (6)" >
+</p>
+
+<p align="center">
+     <img src="https://github.com/onsac/Scout/blob/main/Imagem%20Scout%207.jpeg" alt="Tela-Scout (7)" >
 </p>
