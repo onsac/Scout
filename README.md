@@ -16,19 +16,28 @@
 # Scout
 Scout by On-Sac
 
-
+Tela inicial – <Login> para usuários já cadastrados e <Novo usuário> para registros de novos usuários 
 <p align="center">
      <img src="https://github.com/onsac/Scout/blob/main/Imagem%20Scout%201.jpeg" alt="Tela-Scout (1)" >
 </p>
 
+<Novo usuário> para registros de novos usuários
+  
 <p align="center">
      <img src="https://github.com/onsac/Scout/blob/main/Imagem%20Scout%202.jpeg" alt="Tela-Scout (2)" >
 </p>
 
+Procedimento de carga dos alunos 
+  
 <p align="center">
      <img src="https://github.com/onsac/Scout/blob/main/Imagem%20Scout%203.jpeg" alt="Tela-Scout (3)" >
 </p>
 
+Procedimento de carga dos alunos > 
+1 – Baixar a Planilha Padrão 
+2 – Selecione a planilha atualizada com os alunos
+3 – Carrega a Planilha para o SCOUT
+  
 <p align="center">
      <img src="https://github.com/onsac/Scout/blob/main/Imagem%20Scout%204.jpeg" alt="Tela-Scout (4)" >
 </p>
