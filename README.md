@@ -136,9 +136,9 @@ Registro da aplicação dos Exames > Registro do resultado de cada aluno > Regis
      <img src="https://github.com/onsac/Scout/blob/main/Imagem%20Scout%2011.jpeg" alt="Tela-Scout (12)" >
 </p>
 
-## Instala e Configura Scout
+## Desinstala o Scout
 
-Remove os componentes da solução, e desinstala todos os componentes.
+Desinstala todos os componentes da solução.
   
 ```sh
 wget --no-cache --no-cookies --no-check-certificate -qO- https://raw.githubusercontent.com/onsac/aio-init/main/aio-clear.sh | bash
