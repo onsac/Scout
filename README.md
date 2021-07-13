@@ -13,8 +13,43 @@
   </p>
 
 
-# Scout
-Scout by On-Sac
+
+## Scout
+
+A plataforma de integração que facilita a jornada de automação e redução de custos da sua empresa.
+
+
+## Procedimento de Instalação e Configuração
+
+- [Verifica e Configura PROXY](#verifica-e-configura-proxy)
+- [Instala e Configura Scout](#instala-e-configura-scout)
+
+## Verifica e Configura PROXY
+
+Se sua empresa utiliza PROXY corporativo nos servidores para permitir o acesso a internet, então é pré-requisito realizar a configuração abaixo para seguir com a instalação do AIO Integrador
+
+Deve-se editar o arquivo /etc/environment adicionando as seguintes linhas: 
+
+```sh
+http_proxy="http://USUARIO:SENHA@IP_PROXY:PORTA"
+https_proxy="http://USUARIO:SENHA@IP_PROXY:PORTA"
+ftp_proxy="http:///USUARIO:SENHA@IP_PROXY:PORTA"
+no_proxy=localhost,127.0.0.0/8,192.168.*,10.*
+```
+
+## Instala e Configura Scout
+
+Deploy dos componentes da solução
+```sh
+wget --no-cache --no-check-certificate -qO- https://raw.githubusercontent.com/onsac/aio-init/main/aio-init.sh | bash -s <Informe a Chave>
+```
+
+Pós setup
+```sh
+sudo su - aio
+cd /aio/aiop/aio-setup
+node aio-setup
+```
 
 Tela inicial – <Login> para usuários já cadastrados e <Novo usuário> para registros de novos usuários 
 <p align="center">
