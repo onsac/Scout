@@ -119,8 +119,14 @@ Registro da aplicação dos Exames > Registro do resultado de cada aluno
      <img src="https://github.com/onsac/Scout/blob/main/Imagem%20Scout%2010.jpeg" alt="Tela-Scout (10)" >
 </p>
 
-  Registro da aplicação dos Exames > Registro do resultado de cada aluno > Registro das questões erradas por aluno
+ Registro da aplicação dos Exames > Registro do resultado de cada aluno > Registro das questões erradas por aluno
 
 <p align="center">
-     <img src="https://github.com/onsac/Scout/blob/main/Imagem%20Scout%2011.jpeg" alt="Tela-Scout (11)" >
+     <img src="https://github.com/onsac/Scout/blob/main/Imagem%20Scout%2012.jpeg" alt="Tela-Scout (11)" >
+</p>
+
+Registro da aplicação dos Exames > Registro do resultado de cada aluno > Registro das questões erradas por aluno
+  
+<p align="center">
+     <img src="https://github.com/onsac/Scout/blob/main/Imagem%20Scout%2011.jpeg" alt="Tela-Scout (12)" >
 </p>
