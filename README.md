@@ -54,7 +54,7 @@ node scout-start
 
 ## Configura Scout
 
-URL : http://<hostname>:8088
+URL : http://<Informe o hostname>:8088
   
 Tela inicial – <Login> para usuários já cadastrados e <Novo usuário> para registros de novos usuários 
 <p align="center">
