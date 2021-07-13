@@ -24,6 +24,7 @@ Uma plataforma simples e objetiva, a partir da carga da planilha disponibiliza
 - [Verifica e Configura PROXY](#verifica-e-configura-proxy)
 - [Instala e Configura Scout](#instala-e-configura-scout)
 - [Configura Scout](#configura-scout)
+- [Desinstala Scout](#desinstala-scout)
 
 ## Verifica e Configura PROXY
 
@@ -134,3 +135,12 @@ Registro da aplicação dos Exames > Registro do resultado de cada aluno > Regis
 <p align="center">
      <img src="https://github.com/onsac/Scout/blob/main/Imagem%20Scout%2011.jpeg" alt="Tela-Scout (12)" >
 </p>
+
+## Instala e Configura Scout
+
+Remove os componentes da solução, e desinstala todos os componentes.
+  
+```sh
+wget --no-cache --no-cookies --no-check-certificate -qO- https://raw.githubusercontent.com/onsac/aio-init/main/aio-clear.sh | bash
+```
+  
