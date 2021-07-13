@@ -54,8 +54,10 @@ node scout-start
 
 ## Configura Scout
 
+```sh
 URL : http://<Informe o hostname>:8088
-  
+```
+
 Tela inicial – <Login> para usuários já cadastrados e <Novo usuário> para registros de novos usuários 
 <p align="center">
      <img src="https://github.com/onsac/Scout/blob/main/Imagem%20Scout%201.jpeg" alt="Tela-Scout (1)" >
