@@ -100,3 +100,27 @@ Configuração das Avaliações
 <p align="center">
      <img src="https://github.com/onsac/Scout/blob/main/Imagem%20Scout%207.jpeg" alt="Tela-Scout (7)" >
 </p>
+
+Configuração das Avaliações > Correlação das questões em relação as habilidades da BNCC
+  
+<p align="center">
+     <img src="https://github.com/onsac/Scout/blob/main/Imagem%20Scout%208.jpeg" alt="Tela-Scout (8)" >
+</p>
+  
+Registro da aplicação dos Exames
+  
+<p align="center">
+     <img src="https://github.com/onsac/Scout/blob/main/Imagem%20Scout%209.jpeg" alt="Tela-Scout (9)" >
+</p>
+
+Registro da aplicação dos Exames > Registro do resultado de cada aluno
+  
+<p align="center">
+     <img src="https://github.com/onsac/Scout/blob/main/Imagem%20Scout%2010.jpeg" alt="Tela-Scout (10)" >
+</p>
+
+  Registro da aplicação dos Exames > Registro do resultado de cada aluno > Registro das questões erradas por aluno
+
+<p align="center">
+     <img src="https://github.com/onsac/Scout/blob/main/Imagem%20Scout%2011.jpeg" alt="Tela-Scout (11)" >
+</p>
