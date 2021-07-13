@@ -7,16 +7,16 @@
 <h3 align="center">Scout</h3>
 
 <p align="center">
-  Automações e Integrações sem limitações (AIops/DEVops)
+  Analise de desenpenho com base na BNCC
   <br>
   <a href="https://onsac.com/"><strong>Conheça mais sobre nosso serviço »</strong></a>
-  </p>
+</p>
 
 
 
 ## Scout
 
-A plataforma de integração que facilita a jornada de automação e redução de custos da sua empresa.
+Uma plataforma simples e objetiva, a partir da carga da planilha disponibilizada no site MEC, o Professor faz uma correlação das Questões de Suas Avaliações, com os Objetos de Conhecimento e Habilidades da Base Nacional Comum Curricular.
 
 
 ## Procedimento de Instalação e Configuração
@@ -27,7 +27,7 @@ A plataforma de integração que facilita a jornada de automação e redução d
 
 ## Verifica e Configura PROXY
 
-Se sua empresa utiliza PROXY corporativo nos servidores para permitir o acesso a internet, então é pré-requisito realizar a configuração abaixo para seguir com a instalação do AIO Integrador
+Se sua empresa utiliza PROXY corporativo nos servidores para permitir o acesso a internet, então é pré-requisito realizar a configuração abaixo para seguir com a instalação do SCOUT
 
 Deve-se editar o arquivo /etc/environment adicionando as seguintes linhas: 
 
@@ -42,18 +42,20 @@ no_proxy=localhost,127.0.0.0/8,192.168.*,10.*
 
 Deploy dos componentes da solução
 ```sh
-wget --no-cache --no-check-certificate -qO- https://raw.githubusercontent.com/onsac/aio-init/main/aio-init.sh | bash -s <Informe a Chave>
+wget --no-cache --no-check-certificate -qO- https://raw.githubusercontent.com/onsac/aio-init/main/scout-init.sh | bash -s <Informe a Chave>
 ```
 
 Pós setup
 ```sh
 sudo su - aio
 cd /aio/aiop/aio-setup
-node aio-setup
+node scout-start
 ```
 
 ## Configura Scout
 
+URL : http://<hostname>:8088
+  
 Tela inicial – <Login> para usuários já cadastrados e <Novo usuário> para registros de novos usuários 
 <p align="center">
      <img src="https://github.com/onsac/Scout/blob/main/Imagem%20Scout%201.jpeg" alt="Tela-Scout (1)" >
