@@ -23,6 +23,7 @@ A plataforma de integração que facilita a jornada de automação e redução d
 
 - [Verifica e Configura PROXY](#verifica-e-configura-proxy)
 - [Instala e Configura Scout](#instala-e-configura-scout)
+- [Configura Scout](#configura-scout)
 
 ## Verifica e Configura PROXY
 
@@ -51,6 +52,8 @@ cd /aio/aiop/aio-setup
 node aio-setup
 ```
 
+## Configura Scout
+
 Tela inicial – <Login> para usuários já cadastrados e <Novo usuário> para registros de novos usuários 
 <p align="center">
      <img src="https://github.com/onsac/Scout/blob/main/Imagem%20Scout%201.jpeg" alt="Tela-Scout (1)" >
@@ -68,7 +71,7 @@ Procedimento de carga dos alunos
      <img src="https://github.com/onsac/Scout/blob/main/Imagem%20Scout%203.jpeg" alt="Tela-Scout (3)" >
 </p>
 
-Procedimento de carga dos alunos > 
+Procedimento de carga dos alunos:
 1 – Baixar a Planilha Padrão 
 2 – Selecione a planilha atualizada com os alunos
 3 – Carrega a Planilha para o SCOUT
@@ -77,14 +80,23 @@ Procedimento de carga dos alunos >
      <img src="https://github.com/onsac/Scout/blob/main/Imagem%20Scout%204.jpeg" alt="Tela-Scout (4)" >
 </p>
 
+Procedimento de carga da BNCC
+  
 <p align="center">
      <img src="https://github.com/onsac/Scout/blob/main/Imagem%20Scout%205.jpeg" alt="Tela-Scout (5)" >
 </p>
-
+  
+Procedimento de carga da BNCC:
+1 – Baixar a Planilha do Portal MEC BNCC 
+2 – Selecione a planilha atualizada com a sua BNCC
+3 – Carrega a Planilha para o SCOUT
+  
 <p align="center">
      <img src="https://github.com/onsac/Scout/blob/main/Imagem%20Scout%206.jpeg" alt="Tela-Scout (6)" >
 </p>
 
+Configuração das Avaliações
+  
 <p align="center">
      <img src="https://github.com/onsac/Scout/blob/main/Imagem%20Scout%207.jpeg" alt="Tela-Scout (7)" >
 </p>
